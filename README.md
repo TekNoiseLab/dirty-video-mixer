@@ -1,5 +1,5 @@
 # Dirty Video Mixer
-This is my implementation of Karl Klomp's Dirty Video Mixer, but with a few modifications:
+This is my implementation of Karl Klomp's Dirty Video Mixer in 6HP, but with a few modifications:
 - Vactrol based CV input to mix the two video signals. So you can use a LFO or another envelope to control the mix. (inspired from this project: https://www.reddit.com/r/modular/comments/olbu0t/i_made_a_thing_this_is_a_dirty_video_mixer_for/ )
 - Added video signal attenuators for both inputs. (You can get more glitch effect before the crt monitor gets a black/blue screen if you turn one of the attenuators a bit down.)
 - Added a push button to each video signal to turn it 100% on even if its attenuator or on/off switch is turned down.
