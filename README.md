@@ -11,8 +11,9 @@ I love to use it together with two RecurBoys as video inputs ( https://github.co
 - Order the PCBs from the PCB manufacturer of your choice.
 - Order the components from your favorite electronics supplier.
 I used this momentary-push-buttons: https://de.aliexpress.com/item/1005007783283991.html?spm=a2g0o.order_list.order_list_main.4.35165c5f2uEEIS&gatewayAdapt=glo2deu
-and these vactrols: https://de.aliexpress.com/item/32692736725.html?spm=a2g0o.order_list.order_list_main.9.20845c5f70I6Tp&gatewayAdapt=glo2deu
-but you can also find them somewhere else ;)
+, these vactrols: https://de.aliexpress.com/item/32692736725.html?spm=a2g0o.order_list.order_list_main.9.20845c5f70I6Tp&gatewayAdapt=glo2deu
+and the following RCA-Jacks: https://de.aliexpress.com/item/32697689179.html?spm=a2g0o.order_list.order_list_main.19.35165c5f2uEEIS&gatewayAdapt=glo2deu but you can also find them somewhere else ;)
+
 - Solder the components to the PCB and mount the panel.
 
 <img src="Images/front.jpeg" width="300">
